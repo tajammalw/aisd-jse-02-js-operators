@@ -55,7 +55,7 @@ const a = 10;
 
 ```
 
-- [ ] Add another comment to describe the next variable:.
+- [ ] Add another comment to describe the next variable.
 
 ```javascript
 
@@ -90,19 +90,19 @@ In this step, you will perform basic arithmetic operations using the variables y
 const sum = a + b;
 ```
 
-  - [ ] Add the code to calculate the difference between `a` and `b`:
+  - [ ] Add the code to calculate the difference between `a` and `b`.
 
 ```javascript
 const difference = a - b;
 ```
 
-  - [ ] Add the code to calculate the product of `a` and `b`:
+  - [ ] Add the code to calculate the product of `a` and `b`.
 
 ```javascript
 const product = a * b;
 ```
 
-  - [ ] Add the code to calculate the quotient of `a` divided by `b`:
+  - [ ] Add the code to calculate the quotient of `a` divided by `b`.
 
 ```javascript
 const quotient = a / b;
