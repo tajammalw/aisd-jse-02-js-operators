@@ -220,7 +220,7 @@ In this exercise, we explored the basics of variables, arithmetic operations, an
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-4-the-box-model/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-02-js-operators/tree/solution) (link not shown).
 
 
 ---
